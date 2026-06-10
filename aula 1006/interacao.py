@@ -1,0 +1,12 @@
+num1 = int (input("digite o primeiro numero: "))
+num2 = int (input("digite o segundo numero: "))
+soma = num1 + num2
+sub = num1 - num2
+mult = num1 * num2
+div = num1 / num2
+exp = num1 ** num2
+print (f"soma = {soma}")
+print (f"sub = {sub}")
+print (f"mult = {mult}")
+print (f"div = {div}")
+print (f"exp = {exp}")
